@@ -1,1 +1,1 @@
-# The-Professional-Go-Dataset
+# The Professional Go Dataset
